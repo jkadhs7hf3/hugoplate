@@ -1,23 +1,23 @@
 ---
 title: "Our Services"
 # meta title
-meta_title: ""
+meta_title: "interpretation services"
 # meta description
 description: "This is meta description"
 # save as draft
 draft: false
 ---
-We specialise in on-site consecutive Chinese-English and English-Chinese interpretation in Shanghai and the surrounding region. We have experience in a range of events and topics, including but not limited to
+​
 
-**Business meetings and negotiations** – Clear communication during critical discussions ensures agreements are understood and relationships are built on solid ground. Misunderstandings in these moments can be costly, making professional interpretation essential.
+![](</images/02 services.jpg>)
 
-**Medical appointments** – Healthcare decisions depend on accurate, sensitive communication between patient and provider. Professional interpretation ensures medical information is conveyed precisely and confidentially.
+We specialise in on-site consecutive English Chinese interpreters in Shanghai and the surrounding region. We have experience in a range of events and topics, including but not limited to&#x20;
 
-**Trade shows and exhibitions** - Booth conversations move quickly and cover diverse topics, from product specs to partnership possibilities. On-the-spot interpretation keeps these interactions productive and builds genuine connections with prospects.
-
-**Factory tours and inspections** – Technical environments require interpreters who understand manufacturing processes and industry terminology. Clear communication during tours ensures safety protocols are understood and business objectives are met.
-
-**Corporate social events and dinners** – Building relationships happens in informal settings too. The interpreter helps clients engage authentically at dinners and social gatherings, turning casual moments into meaningful business connections.
+* **Business meetings and negotiations** – Clear communication during critical discussions ensures agreements are understood and relationships are built on solid ground. Misunderstandings in these moments can be costly, making professional interpretation essential.
+* **Medical appointments** – Healthcare decisions depend on accurate, sensitive communication between patient and provider. Professional interpretation ensures medical information is conveyed precisely and confidentially.
+* **Trade shows and exhibitions** - Booth conversations move quickly and cover diverse topics, from product specs to partnership possibilities. On-the-spot interpretation keeps these interactions productive and builds genuine connections with prospects.
+* **Factory tours and inspections** – Technical environments require interpreters who understand manufacturing processes and industry terminology. Clear communication during tours ensures safety protocols are understood and business objectives are met.
+* **Corporate social events and dinners** – Building relationships happens in informal settings too. The interpreter helps clients engage authentically at dinners and social gatherings, turning casual moments into meaningful business connections.
 
 ###### **Our expertise**
 
