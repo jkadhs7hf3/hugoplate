@@ -4,7 +4,7 @@ meta_title: "About"
 description: "this is meta description"
 image: "/images/03 about 3.jpg"
 layout: "about"
-draft: false
+draft: true
 ---
 We are friendly and reliable professional interpreters who live and work in Shanghai. With backgrounds in marketing, business negotiation, project management and more, we are well-equipped to help you navigate cultural nuances that can make or break a deal. We have experience interpreting for business meetings, company and factory visits, banquets, hospital and medical appointments, Shanghai sightseeing, industry exhibitions and more.&#x20;
 
