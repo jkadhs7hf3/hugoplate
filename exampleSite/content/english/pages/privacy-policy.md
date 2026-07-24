@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Visiting Shanghai"
 # meta title
 meta_title: ""
 # meta description
@@ -7,27 +7,21 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
+### **Visiting Shanghai**
 
-#### Responsibility of Contributors
+Shanghai is full of amazing food, culture, history, architecture, museums, nightlife and more. It’s a hub for business and trade, and it’s diverse residents include people from all corners of both China and the world.&#x20;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+The majority of people speak Mandarin Chinese, while a lot of locals still speak the local dialect Shanghainese at home. There are foreigners from all over who have varying degrees of Mandarin ability, but the majority still use English as a bridging language with each other. Although English education is popular in China, not everyone can speak it at a professional language required for business. If you need an interpreter for your visit get in touch with us today.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+###### **Some useful resources for your trip**
 
-#### Gathering of Personal Information
+These blogs are highly recommended for learning more before your trip, but here are some trip essentials:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+* Setting up digital payments Alipay or Wechat – website name
+* Getting connected with an esim -website name
+* For maps, use apple maps or gaode maps (english name/links out)
+* How to use a didi / public transport – website name
 
-#### Protection of Personal- Information
+\{\{\< notice "tip" >}} Pro tip – make sure you have working internet access (esim/sim) and digital payment (WeChat or Alipay) setup before you arrive, otherwise you may have delays finding your way out of the airport to your destination. \{\{\< /notice >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
-
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+​
