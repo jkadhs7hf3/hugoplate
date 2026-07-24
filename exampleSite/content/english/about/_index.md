@@ -3,7 +3,7 @@ title: "About"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/03 about 3.jpg"
-layout: "about"
+layout: ""
 draft: false
 ---
 We are friendly and reliable professional interpreters who live and work in Shanghai. With backgrounds in marketing, business negotiation, project management and more, we are well-equipped to help you navigate cultural nuances that can make or break a deal. We have experience interpreting for business meetings, company and factory visits, banquets, hospital and medical appointments, Shanghai sightseeing, industry exhibitions and more.&#x20;
@@ -16,7 +16,8 @@ We are friendly and reliable professional interpreters who live and work in Shan
 ###### _Why Cultural Awareness Matters_
 
 {{< notice "tip" >}}
-&#x20;In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.&#x20;
+&#x20;In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one. 
+<br />
 {{< /notice >}}
 
 **Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
