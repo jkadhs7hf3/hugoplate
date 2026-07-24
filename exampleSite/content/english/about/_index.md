@@ -10,21 +10,15 @@ We are friendly and reliable professional interpreters who live and work in Shan
 
 **Get matched with an interpreter with the best background for your needs when you get in touch with us**.&#x20;
 
-![](</images/03 about 2.jpg>)
+​
 
-Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish.
+| Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish. | ​<br/>![](</images/03 about.jpg>) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 
 **Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
 
 ###### _Why Cultural Awareness Matters_
 
-| ​<br/>```html
-{{< notice "tip" >}}
-In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one. 
-<br />
-{{< /notice >}}
-
-``` | ​<br/>![](</images/03 about.jpg>) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+\{\{\< notice "tip" >}}
 
 ​
