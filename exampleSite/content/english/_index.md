@@ -5,7 +5,7 @@ banner:
   content: Your interpreter in Shanghai
   image: /images/01 home 01.jpg
   button:
-    enable: true
+    enable: false
     label: Contact us
     link: /#contact
 
@@ -38,9 +38,9 @@ features:
       flows smoothly.
     bulletpoints: []
     button:
-      enable: false
-      label: Get Started Now
-      link: https://github.com/zeon-studio/hugoplate
+      enable: true
+      label: Contact us
+      link: /#contact
   - title: Your Language Bridge in China
     image: /images/01 home 02.jpg
     content: We don’t just provide interpretation. Clear communication is the
