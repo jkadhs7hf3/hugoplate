@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: What we do
-    image: /images/service-1.png
+    image: /images/01 home 03.jpg
     content: Language Bridge provides visitors to Shanghai professional
       interpretation services. We support
     bulletpoints:
