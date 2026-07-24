@@ -20,7 +20,7 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#"#"#"#"#"#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "#"#"#"#"#"#"#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -57,7 +57,7 @@ exclude = []
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = false
-primary_color = "#121212"#121212"#121212"#121212"#121212"#121212"
+primary_color = "#121212"#121212"#121212"#121212"#121212"#121212"#121212"
 include_sections = ["blog"]
 show_image = true
 show_description = true
@@ -111,8 +111,8 @@ sidebar = ["categories", "tags"]
 [google_map]
 enable = false
 map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 
 
@@ -120,11 +120,11 @@ map_marker = "images/marker.png"
 [subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "" # replace this url with yours
+mailchimp_form_name = ""
 
 # OpenRemark Comments
 [open_remark]
-enable = true
+enable = false
 site_key = "cmq51sse6000504l2761vcywi"                 # your site key from the OpenRemark dashboard
 embed_url = "https://open-remark.zeon.studio/embed.js" # OpenRemark embed.js URL | Make sure it didn't change
