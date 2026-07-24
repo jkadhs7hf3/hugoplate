@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Ready to plan your trip to Shanghai?"
-image: ""
+image: "/03 about 2.jpg"
 description: "Have questions about interpretation services for your upcoming
   visit to Shanghai, Suzhou, or Hangzhou? Get in touch to discuss your specific
   needs. The interpreter can arrange a video or voice call before your trip to
