@@ -1,22 +1,29 @@
 ---
-title: "About"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/03 about 3.jpg"
-layout: "about"
+title: "Services"
+meta_title: "Interpretation Services"
+description: "English Chinese interpreters in Shanghai"
+image: "/images/02 services.jpg"
+layout: "services"
 draft: false
 ---
-We are friendly and reliable professional interpreters who live and work in Shanghai. With backgrounds in marketing, business negotiation, project management and more, we are well-equipped to help you navigate cultural nuances that can make or break a deal. We have experience interpreting for business meetings, company and factory visits, banquets, hospital and medical appointments, Shanghai sightseeing, industry exhibitions and more.&#x20;
+We specialise in on-site consecutive Chinese-English and English-Chinese interpretation in Shanghai and the surrounding region. We have experience in a range of events and topics, including but not limited to
 
-**Get matched with an interpreter with the best background for your needs when you get in touch with us**.&#x20;
+**Business meetings and negotiations** – Clear communication during critical discussions ensures agreements are understood and relationships are built on solid ground. Misunderstandings in these moments can be costly, making professional interpretation essential.
 
-| Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish. | ![](</images/03 about.jpg>) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+**Medical appointments** – Healthcare decisions depend on accurate, sensitive communication between patient and provider. Professional interpretation ensures medical information is conveyed precisely and confidentially.
 
-###### _Why Cultural Awareness Matters_
+**Trade shows and exhibitions** - Booth conversations move quickly and cover diverse topics, from product specs to partnership possibilities. On-the-spot interpretation keeps these interactions productive and builds genuine connections with prospects.
 
-{{< notice "tip" >}}
-&#x20;In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.&#x20;
-{{< /notice >}}
+**Factory tours and inspections** – Technical environments require interpreters who understand manufacturing processes and industry terminology. Clear communication during tours ensures safety protocols are understood and business objectives are met.
 
-**Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
+**Corporate social events and dinners** – Building relationshipshappensininformalsettingstoo.Theinterpreterhelpsclientsengageauthenticallyatdinnersandsocialgatherings,turningcasualmomentsintomeaningfulbusinessconnections.
+
+###### **Our expertise**
+
+We have professional and interpreting experience acrossdiversesectors,includingartanddesign,media,marketing,businessdevelopment,environmentalprojects,renewableenergy(solarPVandsolarbattery),foodandbeverage,medical,technology,andentertainment.Whatevertheindustry,theinterpreterbringsbothlanguageexpertiseandsector-specificunderstandingtoeveryengagement.
+
+###### [**Get a free quote for your needs**](/#contact)
+
+Have a specific event or project in mind? Reach out with details and we  will provide a no-obligation quote and answer any questions about how interpretation services will support your business goals in China.
+
+​
