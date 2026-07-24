@@ -41,18 +41,14 @@ features:
       enable: false
       label: Get Started Now
       link: https://github.com/zeon-studio/hugoplate
-  - title: The Top Reasons to Choose Hugo for Your Hugo Project
-    image: /images/service-3.png
-    content: With Hugo, you can build modern and content-focused websites without
-      sacrificing performance or ease of use.
-    bulletpoints:
-      - Instantly load static sites for better user experience and SEO.
-      - Intuitive syntax and support for popular frameworks make learning and
-        using Hugo a breeze.
-      - Use any front-end library or framework, or build custom components, for
-        any project size.
-      - Built on cutting-edge technology to keep your projects up-to-date with
-        the latest web standards.
+  - title: Your Language Bridge in China
+    image: /images/01 home 02.jpg
+    content: We don’t just provide interpretation. Clear communication is the
+      foundation of successful business in China, and miscommunication can
+      derail deals. A professional interpreter with on the ground experience
+      ensures nothing gets lost in translation—whether during negotiations,
+      factory inspections, or any other event you require interpretation for.
+    bulletpoints: []
     button:
       enable: false
       label: ""
