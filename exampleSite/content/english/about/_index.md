@@ -12,7 +12,7 @@ We are friendly and reliable professional interpreters who live and work in Shan
 
 ​
 
-| Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish. | ​<br/>![](</images/03 about.jpg>) |
+| Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish. | ​<br/>![](</images/03 about.jpg height="350px">) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 
 **Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
