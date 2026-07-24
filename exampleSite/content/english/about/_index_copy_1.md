@@ -16,14 +16,12 @@ We specialise in on-site consecutive Chinese-English and English-Chinese interpr
 
 **Factory tours and inspections** – Technical environments require interpreters who understand manufacturing processes and industry terminology. Clear communication during tours ensures safety protocols are understood and business objectives are met.
 
-**Corporate social events and dinners** – Building relationshipshappensininformalsettingstoo.Theinterpreterhelpsclientsengageauthenticallyatdinnersandsocialgatherings,turningcasualmomentsintomeaningfulbusinessconnections.
+**Corporate social events and dinners** – Building relationships happens in informal settings too. The interpreter helps clients engage authentically at dinners and social gatherings, turning casual moments into meaningful business connections.
 
 ###### **Our expertise**
 
-We have professional and interpreting experience acrossdiversesectors,includingartanddesign,media,marketing,businessdevelopment,environmentalprojects,renewableenergy(solarPVandsolarbattery),foodandbeverage,medical,technology,andentertainment.Whatevertheindustry,theinterpreterbringsbothlanguageexpertiseandsector-specificunderstandingtoeveryengagement.
+We have professional and interpreting experience across a diverse range of sectors, including art and design, media, marketing, business development, environmental projects, renewable energy (solar PV and solar battery), food and beverage, medical, technology, and entertainment. Whatever the industry, the interpreter brings both language expertise and sector-specific understanding to every engagement.
 
 ###### [**Get a free quote for your needs**](/#contact)
 
 Have a specific event or project in mind? Reach out with details and we  will provide a no-obligation quote and answer any questions about how interpretation services will support your business goals in China.
-
-​
