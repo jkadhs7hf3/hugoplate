@@ -14,36 +14,17 @@ weight = 2
 [[main]]
 name = "Visiting Shanghai"
 url = "/visit-shanghai"
-weight = 3
+weight = 2
 
 [[main]]
 weight = 2
 name = "About"
+url = "/about"
 
 [[main]]
-parent = ""
 name = "Contact"
-url = "/#contact"#contact"#contact"#contact"#contact"#contact"#contact"#contact"#contact"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+url = "/#contact"
+weight = 2
 
 
 # footer menu
@@ -59,5 +40,5 @@ weight = 2
 
 [[footer]]
 name = "Contact"
-url = "/#contact"#contact"#contact"#contact"#contact"
+url = "/#contact"
 weight = 3
