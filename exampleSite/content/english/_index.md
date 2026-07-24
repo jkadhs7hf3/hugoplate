@@ -53,15 +53,5 @@ features:
       enable: false
       label: ""
       link: ""
-  - title: Ready to plan your trip to Shanghai?
-    image: ""
-    content: Have questions about interpretation services for your upcoming visit to
-      Shanghai, Suzhou, or Hangzhou? Get in touch to discuss your specific
-      needs. The interpreter can arrange a video or voice call before your trip
-      to confirm all details and make sure your visit is a breeze.
-    bulletpoints: []
-    button:
-      label: ""
-      link: ""
 ---
 ​
