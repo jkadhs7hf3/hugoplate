@@ -1,5 +1,5 @@
 {
   "label": "notice",
   "schema": [],
-  "code": ""
+  "code": "{{< notice \"tip\" >}}\n\n{{< /notice >}}\n"
 }
