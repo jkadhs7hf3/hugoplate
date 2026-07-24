@@ -2,12 +2,10 @@
 title: "About"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/image-placeholder.png"
+image: "/images/03 about 3.jpg"
 layout: "about"
 draft: false
 ---
-![](</images/03 about 3.jpg>)
-
 We are friendly and reliable professional interpreters who live and work in Shanghai. With backgrounds in marketing, business negotiation, project management and more, we are well-equipped to help you navigate cultural nuances that can make or break a deal. We have experience interpreting for business meetings, company and factory visits, banquets, hospital and medical appointments, Shanghai sightseeing, industry exhibitions and more.&#x20;
 
 Get matched with an interpreter with the best background for your needs when you **get in touch with us**.&#x20;
@@ -20,19 +18,17 @@ Our approach goes beyond word-for-word translation. Clear communication paired w
 
 ###### _Why Cultural Awareness Matters_
 
-​
-
-| ​<br/>```html
-{{< notice "tip" >}}
- 
-
-In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.
+\| ​<br />\`\`\`html
 <br />
 
-​
+{{< notice "tip" >}}
+In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.\ <br />​
 {{< /notice >}}
 
-``` | ​<br/>![](</images/03 about.jpg>) |
+```|
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 
 **​**
+```
+
+​
