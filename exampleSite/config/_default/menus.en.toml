@@ -23,7 +23,7 @@ name = "About"
 [[main]]
 parent = ""
 name = "Contact"
-url = "/#contact"#contact"#contact"#contact"
+url = "/#contact"#contact"#contact"#contact"#contact"
 
 [[main]]
 parent = "Pages"
@@ -53,11 +53,11 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Services"
+url = "/services"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
+name = "Contact"
+url = "/#contact"
 weight = 3
