@@ -1,5 +1,5 @@
 ---
-title: "Visiting Shanghai"
+title: "Our Services"
 # meta title
 meta_title: ""
 # meta description
@@ -7,31 +7,22 @@ description: "This is meta description"
 # save as draft
 draft: false
 ---
-**​**
+We specialise in on-site consecutive Chinese-English and English-Chinese interpretation in Shanghai and the surrounding region. We have experience in a range of events and topics, including but not limited to
 
-![](</images/03 about 1.jpg>)
+**Business meetings and negotiations** – Clear communication during critical discussions ensures agreements are understood and relationships are built on solid ground. Misunderstandings in these moments can be costly, making professional interpretation essential.
 
-### **Visiting Shanghai**
+**Medical appointments** – Healthcare decisions depend on accurate, sensitive communication between patient and provider. Professional interpretation ensures medical information is conveyed precisely and confidentially.
 
-Shanghai is full of amazing food, culture, history, architecture, museums, nightlife and more. It’s a hub for business and trade, and it’s diverse residents include people from all corners of both China and the world.&#x20;
+**Trade shows and exhibitions** - Booth conversations move quickly and cover diverse topics, from product specs to partnership possibilities. On-the-spot interpretation keeps these interactions productive and builds genuine connections with prospects.
 
-The majority of people speak Mandarin Chinese, while a lot of locals still speak the local dialect Shanghainese at home. There are foreigners from all over who have varying degrees of Mandarin ability, but the majority still use English as a bridging language with each other. Although English education is popular in China, not everyone can speak it at a professional language required for business. **If you need an interpreter for your visit get in touch with us today.**
+**Factory tours and inspections** – Technical environments require interpreters who understand manufacturing processes and industry terminology. Clear communication during tours ensures safety protocols are understood and business objectives are met.
 
-**​**
+**Corporate social events and dinners** – Building relationships happens in informal settings too. The interpreter helps clients engage authentically at dinners and social gatherings, turning casual moments into meaningful business connections.
 
-| ![](</images/04 shanghai 2.jpg>) | ###### **Some useful resources for your trip**<br/>These blogs are highly recommended for learning more before your trip, but here are some trip essentials:<br/>- **Setting up digital payments Alipay or Wechat – website name**
-- **Getting connected with an esim -website name**
-- **For maps, use apple maps or gaode maps (english name/links out)**
-- **How to use a didi / public transport – website name** |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+###### **Our expertise**
 
-{{< notice "tip" >}}
-&#x20;Pro tip – make sure you have working internet access (esim/sim) and digital payment (WeChat or Alipay) setup before you arrive, otherwise you may have delays finding your way out of the airport to your destination. 
-<br />
-{{< /notice >}}
+We have professional and interpreting experience across a diverse range of sectors, including art and design, media, marketing, business development, environmental projects, renewable energy (solar PV and solar battery), food and beverage, medical, technology, and entertainment. Whatever the industry, the interpreter brings both language expertise and sector-specific understanding to every engagement.
 
-​
+###### [**Get a free quote for your needs**](/#contact)
 
-![](</images/04 shanghai.jpg>)
-
-​
+Have a specific event or project in mind? Reach out with details and we  will provide a no-obligation quote and answer any questions about how interpretation services will support your business goals in China.
