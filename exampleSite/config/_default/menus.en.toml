@@ -12,8 +12,8 @@ url = "/services"
 weight = 2
 
 [[main]]
-name = "404 Page"
-url = "/404"
+name = "Visiting Shanghai"
+url = "/visit-shanghai"
 weight = 3
 
 [[main]]
