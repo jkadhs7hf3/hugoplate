@@ -21,9 +21,9 @@ weight = 2
 name = "About"
 
 [[main]]
-parent = "Pages"
+parent = ""
 name = "Contact"
-url = "/#contact"
+url = "/#contact"#contact"
 
 [[main]]
 parent = "Pages"
