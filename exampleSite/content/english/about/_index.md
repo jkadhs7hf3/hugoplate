@@ -13,10 +13,8 @@ We are friendly and reliable professional interpreters who live and work in Shan
 | Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish. | ​\<img src=" /images/03%20about%203\_hu\_3d7ddf6b268c6479.webp " height="200px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
-**Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
-
 ###### _Why Cultural Awareness Matters_
 
-{{< notice "tip" >}}
+\{\{\< notice "tip" >}} In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one. \{\{\< /notice >}}
 
-​
+**Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
