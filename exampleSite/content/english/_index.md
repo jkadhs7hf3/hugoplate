@@ -27,7 +27,7 @@ features:
       label: Get Started Now
       link: "#"
   - title: Service With a Difference
-    image: ""
+    image: /images/01 home 04.jpg
     content: Our interpretation service is delivered in a professional manner from
       start to finish. We always make sure to understand the needs of your trip
       to prepare for technical language or other requirements for your booking.
@@ -38,7 +38,7 @@ features:
       flows smoothly.
     bulletpoints: []
     button:
-      enable: true
+      enable: false
       label: Get Started Now
       link: https://github.com/zeon-studio/hugoplate
   - title: The Top Reasons to Choose Hugo for Your Hugo Project
