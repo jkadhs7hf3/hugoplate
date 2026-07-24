@@ -17,15 +17,14 @@ url = "/visit-shanghai"
 weight = 3
 
 [[main]]
-name = "Contact"
-url = "/#contact"
+name = "About"
+url = "/about"
 weight = 4
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Contact"
+url = "/#contact"
 weight = 5
-
 
 # footer menu
 [[footer]]
