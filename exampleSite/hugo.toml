@@ -6,7 +6,7 @@ title = "Hugoplate"
 # Your theme name
 # theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "China/Beijing"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/summaries/#automatic-summary
 # disable language
@@ -14,25 +14,25 @@ disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 # default language
-defaultContentLanguage = 'en'
+defaultContentLanguage = "en"
 # defaultContentLanguageInSubdir need to be true if you want to use the language code as a subdirectory and language specific 404 page
 defaultContentLanguageInSubdir = false
 
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
-ID = 'G-MEASUREMENT_ID' # see https://gohugo.io/templates/internal/#configure-google-analytics
+ID = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/#configure-google-analytics
 
 ########################## Permalinks ############################
 [permalinks.page]
-"pages" = "/:slugorcontentbasename/"
+pages = "/:slugorcontentbasename/"
 
 
 ########################## Pagination ############################
 [pagination]
 disableAliases = false
 pagerSize = 10
-path = 'page'
+path = "page"
 
 
 ############################# Build ##############################
@@ -40,18 +40,18 @@ path = 'page'
 [build.buildStats]
 enable = true
 [[build.cachebusters]]
-source = 'assets/notwatching/hugo_stats\.json'
-target = 'css'
+source = "assets/notwatching/hugo_stats\\.json"
+target = "css"
 
 ############################# Modules ############################
 [module]
 [[module.mounts]]
-source = 'assets'
-target = 'assets'
+source = "assets"
+target = "assets"
 [[module.mounts]]
 disableWatch = true
-source = 'hugo_stats.json'
-target = 'assets/notwatching/hugo_stats.json'
+source = "hugo_stats.json"
+target = "assets/notwatching/hugo_stats.json"
 
 
 ############################# Outputs ############################
@@ -86,7 +86,7 @@ maxAge = "720h"
 unsafe = true
 
 [markup.highlight]
-style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
+style = "monokai" # see https://xyproto.github.io/splash/docs/all.html
 lineNumbersInTable = false
 
 [markup.tableOfContents]
@@ -121,11 +121,11 @@ notAlternative = true
 link = "plugins/swiper/swiper-bundle.css" # https://github.com/gethugothemes/hugo-modules/tree/master/gallery-slider
 lazy = true
 [[params.plugins.css]]
-link = "plugins/glightbox/glightbox.css" 
+link = "plugins/glightbox/glightbox.css"
 # https://github.com/gethugothemes/hugo-modules/tree/master/gallery-slider
 lazy = true
 [[params.plugins.css]]
-link = "plugins/font-awesome/v6/brands.css" 
+link = "plugins/font-awesome/v6/brands.css"
 # https://github.com/gethugothemes/hugo-modules/tree/master/icons/font-awesome
 lazy = true
 [[params.plugins.css]]
@@ -140,7 +140,7 @@ lazy = true
 link = "js/search.js" # https://github.com/gethugothemes/hugo-modules/tree/master/search
 lazy = false
 [[params.plugins.js]]
-link = "plugins/swiper/swiper-bundle.js" 
+link = "plugins/swiper/swiper-bundle.js"
 # https://github.com/gethugothemes/hugo-modules/tree/master/gallery-slider
 lazy = false
 [[params.plugins.js]]
