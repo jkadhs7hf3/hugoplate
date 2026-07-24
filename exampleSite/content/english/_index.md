@@ -26,16 +26,17 @@ features:
       enable: false
       label: Get Started Now
       link: "#"
-  - title: Discover the Key Features Of Hugo
-    image: /images/service-2.png
-    content: "Hugo is an all-in-one web framework for building fast, content-focused
-      websites. It offers a range of exciting features for developers and
-      website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose
-        from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+  - title: Service With a Difference
+    image: ""
+    content: Our interpretation service is delivered in a professional manner from
+      start to finish. We always make sure to understand the needs of your trip
+      to prepare for technical language or other requirements for your booking.
+      We don’t just translate words, we bridge cultural gaps and help clients
+      navigate how business actually works in China. Every engagement is
+      customised to match specific needs, ensuring that business travellers can
+      focus on building relationships and closing deals while communication
+      flows smoothly.
+    bulletpoints: []
     button:
       enable: true
       label: Get Started Now
