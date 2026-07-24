@@ -1,20 +1,33 @@
 ---
-title: "Hey, I am John Doe!"
+title: "About"
 meta_title: "About"
 description: "this is meta description"
 image: "/images/image-placeholder.png"
 layout: "about"
 draft: false
 ---
+**​**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+![](</images/03 about 3.jpg>)
 
-### This is a title
+### **About**
 
-* Lorem ipsum, dolor sit amet
-* Enim voluptatem dicta expedita veritatis
-* Fugit voluptatibus perspiciatis assumenda
-* Enim voluptatem dicta expedita
-* Corporis illum nesciunt commodi vel
+We are friendly and reliable professional interpreters who live and work in Shanghai. With backgrounds in marketing, business negotiation, project management and more, we are well-equipped to help you navigate cultural nuances that can make or break a deal. We have experience interpreting for business meetings, company and factory visits, banquets, hospital and medical appointments, Shanghai sightseeing, industry exhibitions and more. Get matched with an interpreter with the best background for your needs when you **get in touch with us**.&#x20;
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+​
+
+![](</images/03 about 2.jpg>)
+
+Our approach goes beyond word-for-word translation. Clear communication paired with genuine cultural awareness means clients get more than an interpreter—they get a guide who understands how business actually works on both sides of the table. Every engagement is tailored to specific needs, ensuring that business travellers can focus on building relationships and achieving their goals while communication flows seamlessly from start to finish.
+
+###### _Why Cultural Awareness Matters_
+
+In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.
+
+**Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**
+
+**​**
+
+![](</images/03 about.jpg>)
+
+​
