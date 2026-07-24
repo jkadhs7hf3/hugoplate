@@ -20,7 +20,7 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#"#"#"#"#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "#"#"#"#"#"#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -57,7 +57,7 @@ exclude = []
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = false
-primary_color = "#121212"#121212"#121212"#121212"#121212"
+primary_color = "#121212"#121212"#121212"#121212"#121212"#121212"
 include_sections = ["blog"]
 show_image = true
 show_description = true
@@ -75,10 +75,10 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+description = "Language Bridge Interpretation Shanghai"
+author = ""
+twitter = ""
+image = ""
 
 
 # site verifications
