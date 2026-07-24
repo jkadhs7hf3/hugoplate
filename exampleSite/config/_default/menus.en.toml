@@ -23,7 +23,7 @@ name = "About"
 [[main]]
 parent = "Pages"
 name = "Contact"
-url = "/contact"
+url = "/#contact"
 
 [[main]]
 parent = "Pages"
