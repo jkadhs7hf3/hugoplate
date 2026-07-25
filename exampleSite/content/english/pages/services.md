@@ -1,7 +1,7 @@
 ---
 title: "Our Services"
 # meta title
-meta_title: "interpretation services"
+meta_title: "Interpretation Services"
 # meta description
 description: "This is meta description"
 # save as draft
