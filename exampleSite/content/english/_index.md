@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: Language Bridge Shanghai
-  content: Your interpreter in Shanghai
+  title: Friendly and professional interpretation in Shanghai
+  content: ""
   image: /images/01 home 01.jpg
   button:
     enable: false
