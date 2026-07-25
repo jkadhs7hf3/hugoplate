@@ -18,12 +18,12 @@ weight = 3
 
 [[main]]
 name = "About"
-url = "/about"
+url = "/aboutus"
 weight = 4
 
 [[main]]
 name = "Contact"
-url = "/#contact"
+url = "/#contact" #contact"
 weight = 5
 
 # footer menu
@@ -39,5 +39,5 @@ weight = 2
 
 [[footer]]
 name = "Contact"
-url = "/#contact"
+url = "/#contact" #contact"
 weight = 3
