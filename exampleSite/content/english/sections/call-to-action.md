@@ -9,7 +9,7 @@ description: Have questions about interpretation services for your upcoming
 button:
   enable: false
   label: Contact us
-  link: ""
+  link: "#contact"
 build:
   render: never
 ---
