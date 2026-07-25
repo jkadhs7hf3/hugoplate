@@ -17,7 +17,7 @@ The majority of people speak Mandarin Chinese, while a lot of locals still speak
 
 ![](</images/04 shanghai 2.jpg>)
 
-###### **Some useful resources for your trip**
+###### Essential **resources for your trip**
 
 These blogs are highly recommended for learning more before your trip, but here are some trip essentials:
 
