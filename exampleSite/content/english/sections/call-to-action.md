@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Ready to plan your trip to Shanghai?
+title: <div id="contact">Ready to plan your trip to Shanghai?</div>
 image: /03 about 2.jpg
 description: Have questions about interpretation services for your upcoming
   visit to Shanghai, Suzhou, or Hangzhou? Get in touch to discuss your specific
@@ -9,7 +9,7 @@ description: Have questions about interpretation services for your upcoming
 button:
   enable: false
   label: Contact us
-  link: "#contact"
+  link: ""
 build:
   render: never
 ---
