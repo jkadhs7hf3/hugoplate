@@ -20,7 +20,8 @@ We are friendly and reliable professional interpreters who live and work in Shan
 ###### _Why Cultural Awareness Matters_
 
 {{< notice "tip" >}}
-&#x20;In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one.\ <br />​
+&#x20;In China's business environment, understanding context is just as important as understanding language. A professional interpreter with lived experience in both Western and Eastern cultures can anticipate misunderstandings before they happen, explain unwritten business customs, and help clients present themselves authentically. That's the difference between a smooth trip and a stressful one. ​
+<br />
 {{< /notice >}}
 
 ​[**Need Chinese-English interpreting for your visit to Shanghai? Get your free quote today.**](/#contact)​
