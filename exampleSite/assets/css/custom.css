@@ -1,4 +1,4 @@
 /* Add your own custom styles here */
-a:link, a:visited, a:hover{color:#1E74FD;}
+a:link, a:visited, a:hover, b a:link, h6 a:link{color:#1E74FD;}
 h2 {color:#44AEE8;}
 .tall img {max-height:50%;}
