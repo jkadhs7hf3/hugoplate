@@ -11,8 +11,6 @@ button:
   label: Contact us
   link: ""
 
-layout: "contact"
-
 build:
   render: never
 ---
