@@ -12,7 +12,6 @@ button:
   link: ""
 
 layout: "contact"
-draft: false
 
 build:
   render: never
