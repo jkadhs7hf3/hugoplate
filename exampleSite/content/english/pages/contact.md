@@ -5,7 +5,7 @@ meta_title: ""
 # meta description
 description: ""
 # save as draft
-draft: true
+draft: false
 ---
 title: "Contact"\
 meta\_title: ""\
