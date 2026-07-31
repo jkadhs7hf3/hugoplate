@@ -10,6 +10,10 @@ button:
   enable: false
   label: Contact us
   link: ""
+
+layout: "contact"
+draft: false
+
 build:
   render: never
 ---
